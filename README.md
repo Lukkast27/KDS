@@ -1,2 +1,2 @@
 # KDS
-Kitchen Displa System
+Kitchen Display System
