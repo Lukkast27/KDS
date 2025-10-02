@@ -33,7 +33,7 @@ Do rozsahu práce tedy nepatří detailní design aplikace, pokročilé grafick�
 Zpracování maturitní práce bude rozděleno do několika etap, které postupně pokryjí analýzu, vývoj i finální testování systému.  
 
 ### Říjen – Listopad  
--návrh architektury systému
+-návrh architektury systému  
 -implementace backendu  
 -návrh a vytvoření databázové struktury  
 ### Prosinec – Leden  
