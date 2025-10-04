@@ -1,48 +1,40 @@
-# KDS  
-Kitchen Display System
-## Cíle:
-Hlavním záměrem této maturitní práce je návrh a realizace kuchyňského zobrazovacího systému (KDS), který povede k efektivnějšímu řízení provozu restaurace.  
+# Kuchyňský zobrazovací systém  
 
-### Mezi hlavní cíle patří:  
--Automatizace předávání objednávek z obsluhy do jednotlivých částí provozu  
+## Hlavní cíle patří:   
+- Automatizace předávání objednávek z obsluhy do jednotlivých částí provozu  
+- Zrychlení komunikace mezi kuchyní, grilem a barem  
+- Eliminace chyb vznikajících při ručním nebo ústním předávání informací
+- 
+## Vedlejší cíle:  
+- Přidělení unikátních čísel objednávkám  
+- Zaznamenávání času od zadání objednávky
+-  
+### Dosažení stanovených cílů:  
+- Pevný základ je vytvoření aplikace, která bude u obsluhy. Když obsluha zapíše příchozí objednávku, tak se zapsané informace zobrazí na připojených obrazovkách
+- Pokud hlavní cíl půjde hladce, zaměřím se na rozvinutí funkcí, které jsou zatím jako vedlejší cíle
+- 
+### Extra cíle:
+- tato kolonka slouží jako má idealistická představa pokud by dosažení původních cílů šlo hladce
+- možnost interakce z připojených zařízení (např.: hotová objednávka, počet zbývajících porcí, odhadovaný čas,...)
+- zvukové oznámení
+- zobrazení požadavků tam, kde se splní (na grilu pouze maso, v kuchyni jen jídla a u baru pouze nápoje
 
--Zrychlení komunikace mezi kuchyní, grilem a barem prostřednictvím přehledného digitálního systému  
-
--Eliminace chyb vznikajících při ručním nebo ústním předávání informací.  
-### Vedlejší cíle:  
-
--Přidělení unikátních čísel objednávkám, které usnadní jejich sledování a organizaci  
-
--Zaznamenávání času od zadání objednávky, což umožní vyhodnocovat rychlost obsluhy a efektivitu kuchyňských procesů  
-
-## Rozsah:  
-Rozsah maturitní práce bude zaměřen především na základní funkčnost kuchyňského zobrazovacího systému (KDS) a jeho schopnost zajišťovat rychlou a spolehlivou komunikaci mezi jednotlivými částmi gastronomického provozu.  
-
-### Hlavními body rozsahu jsou:  
--Komunikace mezi třemi zařízeními (např. obsluha, kuchyně, bar/gril)  
-
--Zadávání objednávek na jednom zařízení a jejich následné automatické rozeslání na ostatní  
-
--Implementace doplňkových funkcí, jako je zvukové oznámení nové objednávky nebo možnost přidat poznámku k objednávce  
-
--Zaměření na funkčnost a přehlednost systému, nikoliv na složité grafické zpracování uživatelského rozhraní  
-
-Do rozsahu práce tedy nepatří detailní design aplikace, pokročilé grafické prvky ani plná integrace s pokladními a skladovými systémy. Hlavním cílem je vytvořit funkční základ, který ukáže praktické využití systému KDS.  
-
+- ## Rozsah:    
+- Komunikace mezi 3/4 zařízeními (např. obsluha, kuchyně, bar/gril)  
+- Zadávání objednávek na jednom zařízení a jejich následné automatické rozeslání na ostatní  
+- základní informace u objednávek jako je číslo  čas
+- Zaměření na funkčnost a přehlednost systému, nikoliv na složité grafické zpracování uživatelského rozhraní  
+ 
 ## Časový plán:  
-Zpracování maturitní práce bude rozděleno do několika etap, které postupně pokryjí analýzu, vývoj i finální testování systému.  
-
-### Říjen – Listopad  
--návrh architektury systému  
--implementace backendu  
--návrh a vytvoření databázové struktury  
+### Říjen – Listopad   
+- připravit databázi  
+- začít s backendem  
 ### Prosinec – Leden  
--frontend  
--propojení frontendové a backendové části  
--doplnění základních i rozšiřujících funkcí (zvukové oznámení, poznámky)  
-
+- dokončit backend  
+- rozjet jednoduchý frontend a propojit ho s backendem   
 ### Únor – Březen  
--testování a ladění systému  
--nasazení do modelového provozu  
+- vylepšit frontend
+- otestovat zapojením v restauraci
+- vedlejší cíle a extra cíle
 -příprava finální dokumentace k projektu
 
