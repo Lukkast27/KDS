@@ -5,7 +5,7 @@
 - Zrychlení komunikace mezi kuchyní, grilem a barem  
 - Eliminace chyb vznikajících při ručním nebo ústním předávání informací
   
-### Dosažení stanovených cílů:  
+ ### Dosažení stanovených cílů:  
 - Pevný základ je vytvoření aplikace, která bude u obsluhy. Když obsluha zapíše příchozí objednávku, tak se zapsané informace zobrazí na připojených obrazovkách
 - Pokud hlavní cíl půjde hladce, zaměřím se na rozvinutí funkcí, které jsou zatím jako vedlejší cíle
   
@@ -19,7 +19,7 @@
 - zvukové oznámení
 - zobrazení požadavků tam, kde se splní (na grilu pouze maso, v kuchyni jen jídla a u baru pouze nápoje
 
-- ## Rozsah:    
+## Rozsah:    
 - Komunikace mezi 3/4 zařízeními (např. obsluha, kuchyně, bar/gril)  
 - Zadávání objednávek na jednom zařízení a jejich následné automatické rozeslání na ostatní  
 - základní informace u objednávek jako je číslo  čas
