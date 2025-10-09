@@ -20,10 +20,10 @@
 - zobrazení požadavků tam, kde se splní (na grilu pouze maso, v kuchyni jen jídla a u baru pouze nápoje
 
 ## Rozsah:    
-- Komunikace mezi 3/4 zařízeními (např. obsluha, kuchyně, bar/gril)  
-- Zadávání objednávek na jednom zařízení a jejich následné automatické rozeslání na ostatní  
-- základní informace u objednávek jako je číslo  čas
-- Zaměření na funkčnost a přehlednost systému, nikoliv na složité grafické zpracování uživatelského rozhraní  
+- Databáze  
+- Backend
+- Frontend
+- Testování  
  
 ## Časový plán:  
 ### Říjen – Listopad   
