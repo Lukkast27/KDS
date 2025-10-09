@@ -3,7 +3,7 @@
 ## Hlavní cíl:  
 - vytvoření aplikace, která bude přijímat objednávky a dále je zobrazovat na požadovaných místech
   
-## Hlavní cíle aplikace:   
+## Hlavní funkce aplikace:   
 - Automatizace předávání objednávek z obsluhy do jednotlivých částí provozu  
 - Zrychlení komunikace mezi kuchyní, grilem a barem  
 - Eliminace chyb vznikajících při ručním nebo ústním předávání informací
@@ -12,7 +12,7 @@
 - Pevný základ je vytvoření aplikace, která bude u obsluhy. Když obsluha zapíše příchozí objednávku, tak se zapsané informace zobrazí na připojených obrazovkách
 - Pokud hlavní cíl půjde hladce, zaměřím se na rozvinutí funkcí, které jsou zatím jako vedlejší cíle
   
-## Vedlejší cíle:  
+## Vedlejší funkce aplikace:  
 - Přidělení unikátních čísel objednávkám  
 - Zaznamenávání času od zadání objednávky  
 - možnost interakce z připojených zařízení (např.: hotová objednávka, počet zbývajících porcí, odhadovaný čas,...)
