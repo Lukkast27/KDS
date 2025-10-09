@@ -1,6 +1,9 @@
 # Kuchyňský zobrazovací systém  
 
-## Hlavní cíle:   
+## Hlavní cíl:  
+- vytvoření aplikace, která bude přijímat objednávky a dále je zobrazovat na požadovaných místech
+  
+## Hlavní cíle aplikace:   
 - Automatizace předávání objednávek z obsluhy do jednotlivých částí provozu  
 - Zrychlení komunikace mezi kuchyní, grilem a barem  
 - Eliminace chyb vznikajících při ručním nebo ústním předávání informací
@@ -11,10 +14,7 @@
   
 ## Vedlejší cíle:  
 - Přidělení unikátních čísel objednávkám  
-- Zaznamenávání času od zadání objednávky
-  
-### Extra cíle:
-- tato kolonka slouží jako má idealistická představa pokud by dosažení původních cílů šlo hladce
+- Zaznamenávání času od zadání objednávky  
 - možnost interakce z připojených zařízení (např.: hotová objednávka, počet zbývajících porcí, odhadovaný čas,...)
 - zvukové oznámení
 - zobrazení požadavků tam, kde se splní (na grilu pouze maso, v kuchyni jen jídla a u baru pouze nápoje
